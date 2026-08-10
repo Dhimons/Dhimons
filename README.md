@@ -1,24 +1,50 @@
-# Hi, I'm Dhimons Thapa 👋
+<div align="center">
 
-Aspiring SOC Analyst and Cybersecurity student passionate about blue teaming, threat detection, and log analysis. I focus on building hands-on labs, analyzing attack patterns, and documenting end-to-end incident investigations.
+  <h1>🛡️ Dhimons Thapa</h1>
+  <h3>Aspiring SOC Analyst | Blue Teamer | Threat Hunter</h3>
 
-* 📌 **Currently:** Pursuing a Bachelor of Cybersecurity, preparing for Security+ / CySA+, and applying for Level 1 SOC roles.
-* ✍️ **Write-ups:** Every repo here is a documented investigation / home lab project – not a simple tutorial follow-along.
+  <p>
+    <a href="mailto:thapadhimons@gmail.com">📧 Email</a> •
+    <a href="https://www.linkedin.com/in/dhimons-thapa-3851752a7/">💼 LinkedIn</a>
+  </p>
+
+  <!-- Dynamic GitHub Stats Badges -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=Dhimons&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhimons&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  </p>
+
+</div>
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🧐 About Me
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+* 🎓 **Background:** Cybersecurity student focused on SOC operations, SIEM deployment, and network forensics.
+* 🎯 **Current Focus:** Hands-on threat detection, log analysis (Splunk / Elastic), and preparing for **CompTIA Security+** / **CySA+**.
+* ✍️ **Approach:** Every repository is a fully documented, end-to-end investigation report or home-built detection lab—not a tutorial copy-paste.
 
 ---
 
-### 🚀 Key Projects & Write-ups
+### 🛠️ Security Toolbelt & Skills
 
-Below are my pinned repositories featuring hands-on blue team labs and incident write-ups.
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **SIEM & Logging** | ![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white) ![Elastic](https://img.shields.io/badge/-Elastic-005571?style=flat-square&logo=elasticsearch&logoColor=white) |
+| **Network Analysis** | ![Wireshark](https://img.shields.io/badge/-Wireshark-167DA4?style=flat-square&logo=wireshark&logoColor=white) |
+| **OS & Cloud** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) |
+| **Scripting** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) |
 
-📧 Reach me at: **thapadhimons@gmail.com** | 💼 LinkedIn: **[Dhimons Thapa](https://www.linkedin.com/in/dhimons-thapa-3851752a7/)**
+---
+
+### 🔬 Featured Blue Team Labs & Investigations
+
+* 🚨 **[SIEM-LAB-DOCUMENTATION](./SIEM-LAB-DOCUMENTATION)** — Endpoint telemetry monitoring, event log tracking, and alert creation using Elastic SIEM & Wireshark.
+* ☁️ **[AWS-Cloud-Security-Governance](./AWS-Cloud-Security-Governance)** — Cloud infrastructure baseline with hardened S3 storage, CloudTrail auditing, and IAM least-privilege policies.
+* 🔌 **[aws-ec2-connectivity](./aws-ec2-connectivity)** — Network access controls and security group configuration for EC2 instances.
+
+---
+
+<div align="center">
+  <sub>Designed & Documented by Dhimons Thapa</sub>
+</div>
