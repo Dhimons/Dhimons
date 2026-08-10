@@ -10,18 +10,20 @@ I'm an **aspiring SOC analyst**. By day I'm building home detection labs, and by
 
 ### 🛠️ Tools I work with
 
-![Splunk](https://img.shields.io/badge/SIEM-Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Elastic](https://img.shields.io/badge/SIEM-Elastic-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Network-Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
-![Linux](https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/Scripting-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Scripting-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-007ACC?style=flat)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=green)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elasticsearch&logoColor=005571)
+![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=flat&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-D2B48C?style=flat)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
 ### 📌 Start with my pinned repos
 
-Each one is a full incident report with the logs analyzed, detections built, and remediation steps. Click any of them below!
+Each one is a full incident report with the commands I ran, the detections I built, the log evidence, and the fixes I'd recommend. Click any of them below!
 
 📬 **Reach me at:** [thapadhimons@gmail.com](mailto:thapadhimons@gmail.com) — open to junior SOC / blue-team roles.
