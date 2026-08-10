@@ -10,15 +10,15 @@ I'm an **aspiring SOC analyst**. By day I'm building home detection labs, and by
 
 ### 🛠️ Tools I work with
 
-![SIEM](https://img.shields.io/badge/SIEM-007ACC?style=flat)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=green)
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat&logo=elasticsearch&logoColor=005571)
-![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=flat&logo=wireshark&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-D2B48C?style=flat)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-FF0000?style=flat)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-Splunk-2ea44f?style=flat&logo=splunk&logoColor=white&labelColor=555555)
+![SIEM](https://img.shields.io/badge/SIEM-Elastic-005571?style=flat&logo=elasticsearch&logoColor=white&labelColor=555555)
+![EDR](https://img.shields.io/badge/EDR-Sysmon-007acc?style=flat&labelColor=555555)
+![Network](https://img.shields.io/badge/Network-Wireshark-167da4?style=flat&logo=wireshark&logoColor=white&labelColor=555555)
+![Framework](https://img.shields.io/badge/Framework-MITRE_ATT%26CK-ff0000?style=flat&labelColor=555555)
+![OS](https://img.shields.io/badge/OS-Kali_Linux-007acc?style=flat&logo=kalilinux&logoColor=white&labelColor=555555)
+![OS](https://img.shields.io/badge/OS-Windows_Server-007acc?style=flat&logo=windows&logoColor=white&labelColor=555555)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-232f3e?style=flat&logo=amazon-aws&logoColor=white&labelColor=555555)
+![Scripting](https://img.shields.io/badge/Scripting-Python-3776ab?style=flat&logo=python&logoColor=white&labelColor=555555)
 
 ---
 
