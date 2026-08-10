@@ -8,12 +8,9 @@
     💼 <a href="https://www.linkedin.com/in/dhimons-thapa-3851752a7/">LinkedIn Profile</a>
   </p>
 
-  <br/>
-
-  <!-- Stats Cards -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Dhimons&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhimons&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Blue%20Teaming%20%26%20SOC-blue?style=for-the-badge" alt="Focus" />
+    <img src="https://img.shields.io/badge/Status-Actively%20Seeking%20Roles-success?style=for-the-badge" alt="Status" />
   </p>
 
 </div>
