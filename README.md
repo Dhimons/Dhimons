@@ -4,14 +4,16 @@
   <h3>Aspiring SOC Analyst | Blue Teamer | Threat Hunter</h3>
 
   <p>
-    <a href="mailto:thapadhimons@gmail.com">📧 Email</a> •
-    <a href="https://www.linkedin.com/in/dhimons-thapa-3851752a7/">💼 LinkedIn</a>
+    📧 <a href="mailto:thapadhimons@gmail.com">thapadhimons@gmail.com</a> | 
+    💼 <a href="https://www.linkedin.com/in/dhimons-thapa-3851752a7/">LinkedIn Profile</a>
   </p>
 
-  <!-- Dynamic GitHub Stats Badges -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Dhimons&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhimons&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+  <br/>
+
+  <!-- Stats Cards -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Dhimons&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhimons&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
   </p>
 
 </div>
@@ -39,9 +41,9 @@
 
 ### 🔬 Featured Blue Team Labs & Investigations
 
-* 🚨 **[SIEM-LAB-DOCUMENTATION](./SIEM-LAB-DOCUMENTATION)** — Endpoint telemetry monitoring, event log tracking, and alert creation using Elastic SIEM & Wireshark.
-* ☁️ **[AWS-Cloud-Security-Governance](./AWS-Cloud-Security-Governance)** — Cloud infrastructure baseline with hardened S3 storage, CloudTrail auditing, and IAM least-privilege policies.
-* 🔌 **[aws-ec2-connectivity](./aws-ec2-connectivity)** — Network access controls and security group configuration for EC2 instances.
+* 🚨 **[SIEM-LAB-DOCUMENTATION](https://github.com/Dhimons/SIEM-LAB-DOCUMENTATION)** — Endpoint telemetry monitoring, event log tracking, and alert creation using Elastic SIEM & Wireshark.
+* ☁️ **[AWS-Cloud-Security-Governance](https://github.com/Dhimons/AWS-Cloud-Security-Governance)** — Cloud infrastructure baseline with hardened S3 storage, CloudTrail auditing, and IAM least-privilege policies.
+* 🔌 **[aws-ec2-connectivity](https://github.com/Dhimons/aws-ec2-connectivity)** — Network access controls and security group configuration for EC2 instances.
 
 ---
 
