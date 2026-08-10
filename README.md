@@ -1,11 +1,13 @@
+<!-- CUSTOM HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Dhimons%20Thapa&fontSize=65&animation=fadeIn&fontAlignY=35" width="100%" alt="Header Banner" />
+
 <div align="center">
 
-  <h1>🛡️ Dhimons Thapa</h1>
-  <h3>Aspiring SOC Analyst | Blue Teamer | Threat Hunter</h3>
+  <h1>🛡️ Aspiring SOC Analyst | Blue Teamer | Threat Hunter</h1>
 
   <p>
-    📧 <a href="mailto:thapadhimons@gmail.com">thapadhimons@gmail.com</a> | 
-    💼 <a href="https://www.linkedin.com/in/dhimons-thapa-3851752a7/">LinkedIn Profile</a>
+    📧 <a href="mailto:thapadhimons@gmail.com">Contact via Email</a> | 
+    💼 <a href="https://www.linkedin.com/in/dhimons-thapa-3851752a7/">Connect on LinkedIn</a>
   </p>
 
   <p>
@@ -37,6 +39,8 @@
 ---
 
 ### 🔬 Featured Blue Team Labs & Investigations
+
+👉 **Start with my pinned repos below.** Each one is a full incident report or deployment guide.
 
 * 🚨 **[SIEM-LAB-DOCUMENTATION](https://github.com/Dhimons/SIEM-LAB-DOCUMENTATION)** — Endpoint telemetry monitoring, event log tracking, and alert creation using Elastic SIEM & Wireshark.
 * ☁️ **[AWS-Cloud-Security-Governance](https://github.com/Dhimons/AWS-Cloud-Security-Governance)** — Cloud infrastructure baseline with hardened S3 storage, CloudTrail auditing, and IAM least-privilege policies.
