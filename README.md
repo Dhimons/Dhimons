@@ -1,5 +1,16 @@
-<!-- TECHY CYBERPUNK BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0078D4,100:00D8FF&height=200&section=header&text=Hi,%20I'm%20Dhimons%20👋&fontSize=55&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+<div align="center">
+
+  <h1>🛡️ Hi, I'm Dhimons</h1>
+  <h3>Aspiring SOC Analyst | Blue Teamer | Threat Detection</h3>
+
+  <p>
+    📧 <a href="mailto:thapadhimons@gmail.com">thapadhimons@gmail.com</a> | 
+    💼 <a href="https://www.linkedin.com/in/dhimons-thapa-3851752a7/">LinkedIn Profile</a>
+  </p>
+
+</div>
+
+---
 
 I'm an **aspiring SOC analyst**. By day I'm building home detection labs, and by night I'm querying telemetry with KQL, analyzing attack patterns, and writing incident reports mapped to the NIST framework.
 
